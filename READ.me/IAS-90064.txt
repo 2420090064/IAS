@@ -1,0 +1,22 @@
+IAS-90064/
+│
+├── README.md
+│
+├── Caesar/
+│   ├── client.py
+│   └── server.py
+│
+├── Playfair/
+│   ├── client.py
+│   └── server.py
+│
+└── SDES/
+    ├── client.py
+    ├── server.py
+    │
+    └── SDES-FILE/
+        ├── client.py
+        ├── server.py
+        ├── create_files.py
+        ├── client_1MB.txt
+        └── server_10KB.txt
